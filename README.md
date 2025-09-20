@@ -1,3 +1,2 @@
-Personal website: https://jpviguini.github.io/
-
-LinkedIn: https://www.linkedin.com/in/jpviguini/
+Personal website: <a href="https://jpviguini.github.io/" target="_blank">https://jpviguini.github.io/</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/jpviguini/" target="_blank">https://www.linkedin.com/in/jpviguini/</a>
